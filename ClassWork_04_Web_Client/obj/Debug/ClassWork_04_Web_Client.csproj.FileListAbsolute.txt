@@ -1,0 +1,8 @@
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\bin\Debug\ClassWork_04_Web_Client.exe.config
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\bin\Debug\ClassWork_04_Web_Client.exe
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\bin\Debug\ClassWork_04_Web_Client.pdb
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\obj\Debug\ClassWork_04_Web_Client.csproj.AssemblyReference.cache
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\obj\Debug\ClassWork_04_Web_Client.csproj.SuggestedBindingRedirects.cache
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\obj\Debug\ClassWork_04_Web_Client.csproj.CoreCompileInputs.cache
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\obj\Debug\ClassWork_04_Web_Client.exe
+Z:\NET\NET_ClassWorks\ClassWork_04_Web_Client\ClassWork_04_Web_Client\obj\Debug\ClassWork_04_Web_Client.pdb

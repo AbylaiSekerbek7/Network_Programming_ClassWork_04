@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork_04_Web_Client", "ClassWork_04_Web_Client\ClassWork_04_Web_Client.csproj", "{106C3993-7608-4656-8335-91CDE8B00B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork_Task", "ClassWork_Task\ClassWork_Task.csproj", "{283941AD-BDED-41A0-AE85-EA3C782926AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106C3993-7608-4656-8335-91CDE8B00B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106C3993-7608-4656-8335-91CDE8B00B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106C3993-7608-4656-8335-91CDE8B00B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106C3993-7608-4656-8335-91CDE8B00B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283941AD-BDED-41A0-AE85-EA3C782926AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283941AD-BDED-41A0-AE85-EA3C782926AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283941AD-BDED-41A0-AE85-EA3C782926AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283941AD-BDED-41A0-AE85-EA3C782926AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D05E75-45AC-4C88-8036-BF3B6D2B25DE}
+	EndGlobalSection
+EndGlobal
